@@ -31,5 +31,9 @@ You can customize the game by modifying the following aspects:
 - **Game window settings**: Adjust the window size, background color, and title by modifying the `Screen()` and `bgcolor()` methods.
 - **Difficulty level**: Modify the `delay` variable to change the speed of the snake and adjust the game difficulty.
 
+### Future Enhancements
+
+In the future, I plan to explore and implement various path-finding algorithms to enhance the snake's movement and decision-making. This could include algorithms like A* (A-star), Dijkstra's algorithm, or Breadth-First Search (BFS). By incorporating these algorithms, the snake's behavior can become more intelligent and strategic, providing an even more engaging gameplay experience.
+
 
 Feel free to modify and distribute the code as per your needs.
