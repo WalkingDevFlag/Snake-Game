@@ -79,3 +79,44 @@ snake-game/
 ├── game.py
 └── main.py
 ```
+
+## Modules
+
+### `main.py`
+The entry point for the game. It initializes and starts the game loop.
+
+### `config.py`
+Contains configuration constants such as screen dimensions, block size, and color definitions.
+
+### `input_handler.py`
+Handles user input and updates the snake's direction based on key presses.
+
+### `collision_handler.py`
+Contains functions for detecting collisions with the walls and the snake's own body.
+
+### `food.py`
+Manages the food's behavior, including generating new positions and drawing the food on the screen.
+
+### `board.py`
+Handles the game board's appearance, including drawing the grid and managing the background.
+
+### `snake.py`
+Defines the Snake class, which includes methods for updating the snake's position, drawing it on the screen, and handling growth.
+
+### `game.py`
+Contains the main game logic, including the game loop, initializing components, handling game states, and rendering all elements on the screen.
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions or improvements, please create an issue or submit a pull request.
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Commit your changes (`git commit -am 'Add new feature'`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Create a new Pull Request.
+
+## License
+
+Lmao no License
+
