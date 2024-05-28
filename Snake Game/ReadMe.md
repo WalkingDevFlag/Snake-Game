@@ -54,3 +54,12 @@ To start the game, run the `main.py` file:
 ```sh
 python main.py
 ```
+
+Use the arrow keys to control the snake:
+
+- **Up:** Move up
+- **Down:** Move down
+- **Left:** Move left
+- **Right:** Move right
+
+Press `R` to restart the game after a game over, and `Q` to quit.
