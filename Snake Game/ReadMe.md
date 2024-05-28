@@ -63,3 +63,19 @@ Use the arrow keys to control the snake:
 - **Right:** Move right
 
 Press `R` to restart the game after a game over, and `Q` to quit.
+
+## Project Structure
+The project is organized into the following files:
+
+```arduino
+Copy code
+snake-game/
+├── config.py
+├── input_handler.py
+├── collision_handler.py
+├── food.py
+├── board.py
+├── snake.py
+├── game.py
+└── main.py
+```
