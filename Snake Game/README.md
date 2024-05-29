@@ -1,6 +1,6 @@
 # Snake Game
 
-A classic Snake game implemented in Python using Pygame, divided into modular components for better code organization and maintainability.I will be trying all types of pathfinding algorithms on this board for fun.
+A classic Snake game implemented in Python using Pygame, divided into modular components for better code organization and maintainability. I will be trying all types of pathfinding algorithms on this board for fun.
 
 ## Table of Contents
 
