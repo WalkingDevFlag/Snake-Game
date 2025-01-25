@@ -1,4 +1,3 @@
-### **2. BFS-Snake.md**
 # BFS Pathfinding Snake Game
 
 ## Overview
