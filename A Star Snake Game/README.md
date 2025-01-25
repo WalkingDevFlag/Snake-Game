@@ -11,8 +11,8 @@ This project implements an AI-driven snake game using the A* pathfinding algorit
 - **Customizable Grid**: Adjustable cell size and window dimensions
 
 ## Requirements
-- Python 3.10+
-- Pygame 2.1.2+
+- Python 
+- Pygame 
 
 ## Installation
 ```bash
@@ -26,9 +26,8 @@ pip install pygame
 Copy
 python main.py
 ```
-Mouse controls for speed adjustment and restart
-
-Automatic path recalculation when eating food
+- Mouse controls for speed adjustment and restart
+- Automatic path recalculation when eating food
 
 ## License
 MIT License
