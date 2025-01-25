@@ -11,9 +11,8 @@ This project implements an AI-driven snake game using the A* pathfinding algorit
 - **Customizable Grid**: Adjustable cell size and window dimensions
 
 ## Requirements
-- Python 3.8+
+- Python 3.10+
 - Pygame 2.1.2+
-- Windows/macOS/Linux
 
 ## Installation
 ```bash
