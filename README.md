@@ -1,4 +1,4 @@
-# Pathfinding Snake Games  
+# Snake Games  
 **Four unique implementations demonstrating different AI algorithms**
 
 ## Overview  
