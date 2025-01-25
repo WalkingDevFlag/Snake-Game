@@ -1,4 +1,3 @@
-Copy
 # A* Pathfinding Snake Game
 
 ## Overview
