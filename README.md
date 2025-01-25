@@ -69,4 +69,4 @@ python hamiltonian.py
 
 
 ## License  
-MIT License - Free for academic and commercial use
+MIT License 
