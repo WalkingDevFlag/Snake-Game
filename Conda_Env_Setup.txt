@@ -1,0 +1,4 @@
+Conda Env Setup:
+1) conda create -n snake python=3.10
+2) conda activate snake
+3) pip install pygame
