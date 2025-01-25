@@ -35,14 +35,14 @@ All implementations share core gameplay mechanics while demonstrating unique alg
 ## Installation  
 1. Clone repository:  
 ```bash  
-git clone https://github.com/yourusername/pathfinding-snakes.git  
+git clone https://github.com/WalkingDevFlag/Snake-Game 
 cd pathfinding-snakes  
 ```  
 
 2. Create conda environment:  
 ```bash  
-conda create -n snake-env python=3.8 -y  
-conda activate snake-env  
+conda create -n snake python=3.8 -y  
+conda activate snake  
 ```  
 
 3. Install dependencies:  
